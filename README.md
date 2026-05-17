@@ -20,3 +20,4 @@ const response = await openai.chat.completions.create({
     ],
     temperature: 0.2 // 降低随机性，确保格式稳定
 });
+
